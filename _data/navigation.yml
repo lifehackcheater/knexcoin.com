@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "Roadmap"
+    url: "/roadmap/"
+  - title: "Sponsor"
+    url: "/sponsor/"
+  - title: "Blog"
+    url: "/blog/"
