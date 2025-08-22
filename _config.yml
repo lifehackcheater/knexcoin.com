@@ -1,23 +1,21 @@
 title: KnexChain
-email: hello@knexcoin.com
+email: hello@knexmail.com
 description: Revolutionary quantum-resistant blockchain infrastructure
-baseurl: ""
-url: "https://knexcoin.com"
 
-# Build settings
+# CRITICAL: GitHub Pages settings
+baseurl: "/knexcoin.com"
+url: "https://lifehackcheater.github.io"
+
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-seo-tag
 
 # Project info
 project:
   tagline: "Crypto Pioneers. Innovators. The people that make life easy."
   license: "MIT"
-  github_repo: "https://github.com/lifehackcheater/knexcoin.com"
 
-# Social
 github_username: lifehackcheater
 twitter_username: knexchain

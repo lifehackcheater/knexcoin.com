@@ -1,26 +1,24 @@
 ---
 layout: home
-title: "Revolutionary Blockchain Infrastructure"
 ---
 
 # 🚀 Welcome to KnexChain
 
 **Crypto Pioneers. Innovators. The people that make life easy.**
 
-KnexChain is the world's first quantum-resistant, bandwidth-powered blockchain with NANO streaming technology.
+Revolutionary quantum-resistant blockchain infrastructure.
 
 ## Key Features
 
-- 🔐 **Quantum-Resistant** - Post-quantum cryptographic algorithms
-- ⚡ **Proof-of-Bandwidth** - Revolutionary consensus mechanism
-- 💧 **NANO Streaming** - Micro-transactions at 0.000001 precision
-- 🏪 **Integrated DEX** - Native trading capabilities
-- 🌐 **Self-Propagating** - Viral adoption mechanisms
+- 🔐 **Quantum-Resistant** - Future-proof security
+- ⚡ **Proof-of-Bandwidth** - Revolutionary consensus  
+- 💧 **NANO Streaming** - Micro-transaction precision
+- 🏪 **Integrated DEX** - Built-in trading
+- 🌐 **Self-Propagating** - Viral adoption
 
 ## Get Involved
 
-- ⭐ Star our [GitHub repository](https://github.com/lifehackcheater/knexcoin.com)
-- 💝 [Sponsor our development](https://github.com/sponsors/lifehackcheater)
-- 🐦 Follow us on Twitter [@knexchain](https://twitter.com/knexchain)
+- ⭐ [Star our repository](https://github.com/lifehackcheater/knexcoin.com)
+- 💝 [Sponsor development](https://github.com/sponsors/lifehackcheater)
 
 *Building the future of blockchain technology.*
