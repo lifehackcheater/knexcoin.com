@@ -1,0 +1,9 @@
+title: KnexChain
+description: Revolutionary quantum-resistant blockchain infrastructure
+url: https://knexcoin.com
+baseurl: ''
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
